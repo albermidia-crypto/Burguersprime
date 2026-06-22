@@ -1,0 +1,6 @@
+{
+  "name": "BURGUERSPRIME",
+  "description": "Sistema de gestão comercial e analítico financeiro completo para hamburguerias de Angola.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
